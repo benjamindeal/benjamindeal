@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benjamindeal
+- 👀 I’m interested in Supply Chain Analytics.
+- 🌱 I’m currently learning Data Science (Python, SQL, etc.)
+- 💞️ I’m looking to collaborate on anything and everything.
+- 📫 How to reach me: ben.deal.iv@gmail.com
